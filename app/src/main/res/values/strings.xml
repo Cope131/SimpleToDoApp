@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Simple To Do</string>
+
+    <string name="add">Add</string>
+    <string name="delete">Delete</string>
+    <string name="clear">clear</string>
+
+    <string name="newTaskHint">Type in a new task here</string>
+    <string name="deleteTaskHint">Type in the index of the task to be removed</string>
+
+    <string name="wrongIndex">Wrong index number</string>
+    <string name="emptyTask">You don\'t have any task to remove</string>
+
+    <string-array name="items">
+        <item>Add a new task</item>
+        <item>Remove a task</item>
+    </string-array>
+
+</resources>
